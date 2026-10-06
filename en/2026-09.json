@@ -1,0 +1,347 @@
+{
+ "lang": "en",
+ "facts": [
+  {
+   "id": "ancient-0001",
+   "cat": "ancient",
+   "pub": "2026-09-01",
+   "hook": "Ancient Rome taxed urine",
+   "body": "Launderers used urine to clean and whiten clothes. Emperor Vespasian put a tax on collecting it from public latrines.",
+   "src": "Wikipedia · Urine tax",
+   "url": "https://en.wikipedia.org/wiki/Urine_tax"
+  },
+  {
+   "id": "ancient-0002",
+   "cat": "ancient",
+   "pub": "2026-09-01",
+   "hook": "A Sumerian hymn doubles as a beer recipe",
+   "body": "The Hymn to Ninkasi, the Sumerian goddess of beer, is almost 4,000 years old and describes the brewing process step by step.",
+   "src": "Wikipedia · Ninkasi",
+   "url": "https://en.wikipedia.org/wiki/Ninkasi"
+  },
+  {
+   "id": "animals-0001",
+   "cat": "animals",
+   "pub": "2026-09-01",
+   "hook": "Octopuses have three hearts",
+   "body": "Two pump blood through the gills and the third sends it round the body. Their blood is blue, too: it carries haemocyanin, a copper-based protein.",
+   "src": "Wikipedia · Octopus",
+   "url": "https://en.wikipedia.org/wiki/Octopus"
+  },
+  {
+   "id": "animals-0002",
+   "cat": "animals",
+   "pub": "2026-09-01",
+   "hook": "Flamingos are pink because of what they eat",
+   "body": "The colour comes from carotenoids in the algae and tiny crustaceans they feed on. Without them, their feathers gradually fade towards white.",
+   "src": "Wikipedia · Flamingo",
+   "url": "https://en.wikipedia.org/wiki/Flamingo"
+  },
+  {
+   "id": "art-0001",
+   "cat": "art",
+   "pub": "2026-09-01",
+   "hook": "The Mona Lisa has almost no eyebrows or eyelashes",
+   "body": "A 2007 high-resolution scan suggested Leonardo did paint them and that they faded away with cleanings over the centuries.",
+   "src": "Wikipedia · Mona Lisa",
+   "url": "https://en.wikipedia.org/wiki/Mona_Lisa"
+  },
+  {
+   "id": "art-0002",
+   "cat": "art",
+   "pub": "2026-09-01",
+   "hook": "There isn't just one «The Scream»",
+   "body": "Edvard Munch made several versions between 1893 and 1910: two paintings, two pastels and a number of lithographs.",
+   "src": "Wikipedia · The Scream",
+   "url": "https://en.wikipedia.org/wiki/The_Scream"
+  },
+  {
+   "id": "body-0001",
+   "cat": "body",
+   "pub": "2026-09-01",
+   "hook": "You're born with about 300 bones; adults have 206",
+   "body": "Many start out as cartilage and fuse as you grow: the skull and the pelvis are each made of several joined pieces.",
+   "src": "Wikipedia · Human skeleton",
+   "url": "https://en.wikipedia.org/wiki/Human_skeleton"
+  },
+  {
+   "id": "body-0002",
+   "cat": "body",
+   "pub": "2026-09-01",
+   "hook": "Your stomach replaces its protective lining every few days",
+   "body": "The cells lining the stomach are replaced every 3 to 5 days. That keeps the acid that digests your food from digesting the stomach itself.",
+   "src": "Wikipedia · Stomach",
+   "url": "https://en.wikipedia.org/wiki/Stomach"
+  },
+  {
+   "id": "food-0001",
+   "cat": "food",
+   "pub": "2026-09-01",
+   "hook": "Carrots weren't always orange",
+   "body": "The first cultivated carrots were purple and yellow. Orange ones became popular in the Netherlands in the 16th and 17th centuries.",
+   "src": "Wikipedia · Carrot",
+   "url": "https://en.wikipedia.org/wiki/Carrot"
+  },
+  {
+   "id": "food-0002",
+   "cat": "food",
+   "pub": "2026-09-01",
+   "hook": "The wasabi in most restaurants isn't wasabi",
+   "body": "Real wasabi is expensive and hard to grow, so what's usually served is horseradish mixed with mustard and green colouring.",
+   "src": "Wikipedia · Wasabi",
+   "url": "https://en.wikipedia.org/wiki/Wasabi"
+  },
+  {
+   "id": "hispanic-0001",
+   "cat": "hispanic",
+   "pub": "2026-09-01",
+   "hook": "Wild axolotls live only in Xochimilco",
+   "body": "This amphibian, Axolo's mascot, is native only to the canals of Xochimilco in Mexico City. Since 2021 it has also appeared on Mexico's 50-peso note.",
+   "src": "Wikipedia · Axolotl",
+   "url": "https://en.wikipedia.org/wiki/Axolotl"
+  },
+  {
+   "id": "hispanic-0002",
+   "cat": "hispanic",
+   "pub": "2026-09-01",
+   "hook": "La Paz is the world's highest seat of government",
+   "body": "Central La Paz, Bolivia, sits about 3,600 metres above sea level. Water boils there at around 87 °C, so cooking pasta takes longer.",
+   "src": "Wikipedia · La Paz",
+   "url": "https://en.wikipedia.org/wiki/La_Paz"
+  },
+  {
+   "id": "history-0001",
+   "cat": "history",
+   "pub": "2026-09-01",
+   "hook": "Cleopatra lived closer to the Moon landing than to the Great Pyramid",
+   "body": "The Great Pyramid of Giza was finished around 2560 BC. Cleopatra died in 30 BC, about 2,500 years later and about 2,000 years before Apollo 11.",
+   "src": "Wikipedia · Great Pyramid of Giza",
+   "url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+  },
+  {
+   "id": "history-0002",
+   "cat": "history",
+   "pub": "2026-09-01",
+   "hook": "Oxford University is older than Tenochtitlan",
+   "body": "Teaching was already happening at Oxford by 1096. The Aztec city of Tenochtitlan was founded around 1325, more than two centuries later.",
+   "src": "Wikipedia · University of Oxford",
+   "url": "https://en.wikipedia.org/wiki/University_of_Oxford"
+  },
+  {
+   "id": "inventions-0001",
+   "cat": "inventions",
+   "pub": "2026-09-01",
+   "hook": "The first computer mouse was made of wood",
+   "body": "Douglas Engelbart and Bill English built it in 1964: a wooden box with two wheels and a single button.",
+   "src": "Wikipedia · Computer mouse",
+   "url": "https://en.wikipedia.org/wiki/Computer_mouse"
+  },
+  {
+   "id": "inventions-0002",
+   "cat": "inventions",
+   "pub": "2026-09-01",
+   "hook": "The microwave oven began with a melted candy bar",
+   "body": "In 1945 Percy Spencer was working on a radar magnetron when he noticed the sweet in his pocket had melted. The microwave oven followed.",
+   "src": "Wikipedia · Microwave oven",
+   "url": "https://en.wikipedia.org/wiki/Microwave_oven"
+  },
+  {
+   "id": "mind-0001",
+   "cat": "mind",
+   "pub": "2026-09-01",
+   "hook": "Your brain is 2% of your weight and uses 20% of your energy",
+   "body": "At rest, the brain burns around a fifth of the body's energy even though it makes up only about 2% of body weight.",
+   "src": "Wikipedia · Human brain",
+   "url": "https://en.wikipedia.org/wiki/Human_brain"
+  },
+  {
+   "id": "mind-0002",
+   "cat": "mind",
+   "pub": "2026-09-01",
+   "hook": "Each eye has a blind spot, and your brain fills it in",
+   "body": "Where the optic nerve leaves the eye there are no light receptors. The brain fills the gap with whatever surrounds it, so you never notice.",
+   "src": "Wikipedia · Blind spot",
+   "url": "https://en.wikipedia.org/wiki/Blind_spot_(vision)"
+  },
+  {
+   "id": "myths-0001",
+   "cat": "myths",
+   "pub": "2026-09-01",
+   "hook": "You can't see the Great Wall of China from the Moon",
+   "body": "It's very long but narrow and the same colour as the land around it. Even from low orbit it's hard to make out with the naked eye.",
+   "src": "Wikipedia · Great Wall of China",
+   "url": "https://en.wikipedia.org/wiki/Great_Wall_of_China"
+  },
+  {
+   "id": "myths-0002",
+   "cat": "myths",
+   "pub": "2026-09-01",
+   "hook": "Old cathedral glass doesn't «drip» over the centuries",
+   "body": "Some old panes are thicker at the bottom because the glass came out uneven and was fitted that way. Glass doesn't flow on a human timescale.",
+   "src": "Wikipedia · Glass",
+   "url": "https://en.wikipedia.org/wiki/Glass"
+  },
+  {
+   "id": "nature-0001",
+   "cat": "nature",
+   "pub": "2026-09-01",
+   "hook": "Botanically, bananas are berries and strawberries aren't",
+   "body": "A berry develops from a single ovary and keeps its seeds inside. Bananas qualify; strawberries carry their seeds outside and are aggregate fruits.",
+   "src": "Wikipedia · Berry (botany)",
+   "url": "https://en.wikipedia.org/wiki/Berry_(botany)"
+  },
+  {
+   "id": "nature-0002",
+   "cat": "nature",
+   "pub": "2026-09-01",
+   "hook": "An entire forest in Utah is one living thing",
+   "body": "Pando is about 47,000 quaking aspen stems growing from a single root system. Genetically it is one individual, among the heaviest on Earth.",
+   "src": "Wikipedia · Pando",
+   "url": "https://en.wikipedia.org/wiki/Pando_(tree)"
+  },
+  {
+   "id": "ocean-0001",
+   "cat": "ocean",
+   "pub": "2026-09-01",
+   "hook": "Only about a quarter of the seafloor is mapped in detail",
+   "body": "The Seabed 2030 project aims to map the whole ocean floor at high resolution. So far it has passed only about 25%.",
+   "src": "Seabed 2030",
+   "url": "https://seabed2030.org/"
+  },
+  {
+   "id": "ocean-0002",
+   "cat": "ocean",
+   "pub": "2026-09-01",
+   "hook": "A blue whale's heart weighs about 180 kg",
+   "body": "It's the largest heart known. One from a blue whale stranded in Canada in 2014 was weighed at about 180 kg, as much as two adults.",
+   "src": "Wikipedia · Blue whale",
+   "url": "https://en.wikipedia.org/wiki/Blue_whale"
+  },
+  {
+   "id": "places-0001",
+   "cat": "places",
+   "pub": "2026-09-01",
+   "hook": "Australia is wider than the Moon",
+   "body": "From east to west, Australia measures about 4,000 km. The Moon's diameter is about 3,475 km.",
+   "src": "Wikipedia · Australia",
+   "url": "https://en.wikipedia.org/wiki/Australia"
+  },
+  {
+   "id": "places-0002",
+   "cat": "places",
+   "pub": "2026-09-01",
+   "hook": "Canada has the world's longest coastline",
+   "body": "Counting its thousands of islands, Canada's coastline is over 200,000 km long, enough to circle the Earth almost five times.",
+   "src": "Wikipedia · Geography of Canada",
+   "url": "https://en.wikipedia.org/wiki/Geography_of_Canada"
+  },
+  {
+   "id": "records-0001",
+   "cat": "records",
+   "pub": "2026-09-01",
+   "hook": "The tallest known tree is about 116 metres high",
+   "body": "It's called Hyperion, a coast redwood in California. Its exact location is kept secret to protect it.",
+   "src": "Wikipedia · Hyperion",
+   "url": "https://en.wikipedia.org/wiki/Hyperion_(tree)"
+  },
+  {
+   "id": "records-0002",
+   "cat": "records",
+   "pub": "2026-09-01",
+   "hook": "The coldest temperature measured on Earth: −89.2 °C",
+   "body": "It was recorded at Russia's Vostok Station in Antarctica on 21 July 1983.",
+   "src": "Wikipedia · Vostok Station",
+   "url": "https://en.wikipedia.org/wiki/Vostok_Station"
+  },
+  {
+   "id": "science-0001",
+   "cat": "science",
+   "pub": "2026-09-01",
+   "hook": "The sunlight you see left the Sun 8 minutes ago",
+   "body": "Light takes about 8 minutes and 20 seconds to cross the 150 million kilometres between the Sun and the Earth.",
+   "src": "Wikipedia · Astronomical unit",
+   "url": "https://en.wikipedia.org/wiki/Astronomical_unit"
+  },
+  {
+   "id": "science-0002",
+   "cat": "science",
+   "pub": "2026-09-01",
+   "hook": "A diamond and your pencil lead are the same stuff",
+   "body": "Both are pure carbon. The difference is how the atoms are arranged: a rigid lattice in diamond, sliding sheets in graphite.",
+   "src": "Wikipedia · Allotropes of carbon",
+   "url": "https://en.wikipedia.org/wiki/Allotropes_of_carbon"
+  },
+  {
+   "id": "screen-0001",
+   "cat": "screen",
+   "pub": "2026-09-01",
+   "hook": "Jurassic Park's T. rex roar is partly a baby elephant",
+   "body": "Sound designer Gary Rydstrom built it by mixing, among others, a baby elephant, a tiger and an alligator.",
+   "src": "Wikipedia · Jurassic Park",
+   "url": "https://en.wikipedia.org/wiki/Jurassic_Park_(film)"
+  },
+  {
+   "id": "screen-0002",
+   "cat": "screen",
+   "pub": "2026-09-01",
+   "hook": "Feature films first talked in 1927",
+   "body": "The Jazz Singer was the first feature film with synchronised dialogue. Its first spoken line: «You ain't heard nothin' yet».",
+   "src": "Wikipedia · The Jazz Singer",
+   "url": "https://en.wikipedia.org/wiki/The_Jazz_Singer"
+  },
+  {
+   "id": "space-0001",
+   "cat": "space",
+   "pub": "2026-09-01",
+   "hook": "A day on Venus is longer than its year",
+   "body": "Venus takes 243 Earth days to spin once on its axis but only 225 to orbit the Sun. It also spins backwards compared with most planets.",
+   "src": "NASA · Venus",
+   "url": "https://science.nasa.gov/venus/"
+  },
+  {
+   "id": "space-0002",
+   "cat": "space",
+   "pub": "2026-09-01",
+   "hook": "Neptune has orbited the Sun only once since we found it",
+   "body": "A year on Neptune lasts about 165 Earth years. It was discovered in 1846 and only completed its first orbit since then in 2011.",
+   "src": "Wikipedia · Neptune",
+   "url": "https://en.wikipedia.org/wiki/Neptune"
+  },
+  {
+   "id": "sports-0001",
+   "cat": "sports",
+   "pub": "2026-09-01",
+   "hook": "The Olympics used to award medals for art",
+   "body": "Between 1912 and 1948 there were Olympic medals for painting, sculpture, architecture, literature and music, all on sporting themes.",
+   "src": "Wikipedia · Art competitions at the Olympic Games",
+   "url": "https://en.wikipedia.org/wiki/Art_competitions_at_the_Summer_Olympics"
+  },
+  {
+   "id": "sports-0002",
+   "cat": "sports",
+   "pub": "2026-09-01",
+   "hook": "One tennis match lasted 11 hours and 5 minutes",
+   "body": "John Isner and Nicolas Mahut played it at Wimbledon in 2010 over three days. The fifth set ended 70–68.",
+   "src": "Wikipedia · Isner–Mahut match",
+   "url": "https://en.wikipedia.org/wiki/Isner%E2%80%93Mahut_match_at_the_2010_Wimbledon_Championships"
+  },
+  {
+   "id": "words-0001",
+   "cat": "words",
+   "pub": "2026-09-01",
+   "hook": "Spanish «ojalá» originally meant «if God wills»",
+   "body": "It comes from Andalusi Arabic law šā llāh. Spanish borrowed thousands of words from Arabic, including almohada (pillow), aceite (oil) and azúcar (sugar).",
+   "src": "Wiktionary · ojalá",
+   "url": "https://en.wiktionary.org/wiki/ojal%C3%A1"
+  },
+  {
+   "id": "words-0002",
+   "cat": "words",
+   "pub": "2026-09-01",
+   "hook": "«Robot» comes from a Czech word for forced labour",
+   "body": "It first appeared in Karel Čapek's 1920 play R.U.R. The idea of using robota came from his brother Josef.",
+   "src": "Wikipedia · Robot",
+   "url": "https://en.wikipedia.org/wiki/Robot"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "lang": "es",
+ "facts": [
+  {
+   "id": "ancient-0004",
+   "cat": "ancient",
+   "pub": "2026-10-04",
+   "hook": "Montar de nuevo la barca funeraria de Keops llevó catorce años",
+   "body": "La hallaron en 1954 enterrada en un foso junto a la Gran Pirámide, desmontada. Se reconstruyó pieza a pieza durante catorce años.",
+   "src": "Wikipedia · Gran Pirámide de Guiza",
+   "url": "https://es.wikipedia.org/wiki/Gran_Pir%C3%A1mide_de_Guiza"
+  },
+  {
+   "id": "ancient-0005",
+   "cat": "ancient",
+   "pub": "2026-10-04",
+   "hook": "El sarcófago de la Gran Pirámide se colocó antes de acabarla: no cabe por los pasillos",
+   "body": "El sarcófago de granito de la cámara del rey está vacío. Es más ancho que los pasadizos, así que se dejó allí mientras se construía la pirámide.",
+   "src": "Wikipedia · Gran Pirámide de Guiza",
+   "url": "https://es.wikipedia.org/wiki/Gran_Pir%C3%A1mide_de_Guiza"
+  },
+  {
+   "id": "ancient-0006",
+   "cat": "ancient",
+   "pub": "2026-10-04",
+   "hook": "La piedra de Rosetta parecía negra por la cera que la protegía",
+   "body": "En Londres se cubrió con cera de carnaúba para protegerla de los dedos de los visitantes. Oscureció la piedra y se la tomó por basalto negro; la limpieza de 1999 reveló su gris oscuro original.",
+   "src": "Wikipedia · Piedra de Rosetta",
+   "url": "https://es.wikipedia.org/wiki/Piedra_de_Rosetta"
+  },
+  {
+   "id": "ancient-0007",
+   "cat": "ancient",
+   "pub": "2026-10-04",
+   "hook": "La piedra de Rosetta pasó dos años a 15 metros bajo tierra en una estación postal",
+   "body": "Hacia el final de la Primera Guerra Mundial, en 1917, el museo la puso a salvo de los bombardeos de Londres en una estación del Ferrocarril del Servicio Postal.",
+   "src": "Wikipedia · Piedra de Rosetta",
+   "url": "https://es.wikipedia.org/wiki/Piedra_de_Rosetta"
+  },
+  {
+   "id": "ancient-0008",
+   "cat": "ancient",
+   "pub": "2026-10-04",
+   "hook": "Un decreto egipcio llamó «lenguaje de los dioses» a los jeroglíficos",
+   "body": "El decreto ordenaba poner una copia en cada templo en tres escrituras: jeroglífico, demótico y el idioma que usaba el gobierno ptolemaico, el griego.",
+   "src": "Wikipedia · Piedra de Rosetta",
+   "url": "https://es.wikipedia.org/wiki/Piedra_de_Rosetta"
+  },
+  {
+   "id": "ancient-0009",
+   "cat": "ancient",
+   "pub": "2026-10-04",
+   "hook": "Tutankamón fue uno de los pocos faraones adorados como dios en vida",
+   "body": "Se levantaron templos para su culto hasta en la lejana Nubia, en lugares como Kawa y Faras.",
+   "src": "Wikipedia · Tutankamón",
+   "url": "https://es.wikipedia.org/wiki/Tutankam%C3%B3n"
+  },
+  {
+   "id": "ancient-0011",
+   "cat": "ancient",
+   "pub": "2026-10-04",
+   "hook": "Tutankamón se llamó antes «imagen viviente de Atón»",
+   "body": "Al nacer se llamó Tutankatón, por el dios Atón de su padre Akenatón. Al restaurarse el culto tradicional, cambió Atón por Amón.",
+   "src": "Wikipedia · Tutankamón",
+   "url": "https://es.wikipedia.org/wiki/Tutankam%C3%B3n"
+  },
+  {
+   "id": "ancient-0012",
+   "cat": "ancient",
+   "pub": "2026-10-04",
+   "hook": "Según Luciano, Sóstrato escondió su nombre bajo yeso en el Faro de Alejandría",
+   "body": "Luciano contó en el siglo II que Sóstrato ocultó su nombre bajo yeso con el de Ptolomeo, para que se viera en la piedra cuando el yeso cayera.",
+   "src": "Wikipedia · Faro de Alejandría",
+   "url": "https://es.wikipedia.org/wiki/Faro_de_Alejandr%C3%ADa"
+  },
+  {
+   "id": "ancient-0013",
+   "cat": "ancient",
+   "pub": "2026-10-04",
+   "hook": "En el puerto de Alejandría, junto a restos del faro, se hallaron 30 esfinges y 5 obeliscos",
+   "body": "En 1994 arqueólogos franceses hallaron restos del faro en el puerto oriental. Entre ellos había bloques de granito de 49 a 60 toneladas.",
+   "src": "Wikipedia · Faro de Alejandría",
+   "url": "https://es.wikipedia.org/wiki/Faro_de_Alejandr%C3%ADa"
+  },
+  {
+   "id": "ancient-0014",
+   "cat": "ancient",
+   "pub": "2026-10-04",
+   "hook": "La palabra «faro» viene de Pharos, la isla frente a Alejandría",
+   "body": "El faro se levantó en la isla de Pharos. Su nombre acabó significando «faro» en griego y pasó a lenguas romances como el español, el francés o el italiano.",
+   "src": "Wikipedia · Faro de Alejandría",
+   "url": "https://es.wikipedia.org/wiki/Faro_de_Alejandr%C3%ADa"
+  },
+  {
+   "id": "animals-0010",
+   "cat": "animals",
+   "pub": "2026-10-04",
+   "hook": "El ornitorrinco caza con los ojos, los oídos y la nariz cerrados",
+   "body": "Al zambullirse cierra ojos, oídos y nariz y excava con el hocico en el fondo de los riachuelos. Los electrorreceptores del hocico detectan a sus presas, que al moverse emiten señales eléctricas.",
+   "src": "Wikipedia · Ornithorhynchus anatinus",
+   "url": "https://es.wikipedia.org/wiki/Ornithorhynchus_anatinus"
+  },
+  {
+   "id": "animals-0012",
+   "cat": "animals",
+   "pub": "2026-10-04",
+   "hook": "Un colibrí puede ralentizar su metabolismo a 1/15 de lo normal",
+   "body": "Cuando escasea la comida o de noche, los colibríes entran en un letargo parecido a la hibernación y reducen su tasa metabólica a 1/15 de la normal.",
+   "src": "Wikipedia · Trochilidae",
+   "url": "https://es.wikipedia.org/wiki/Trochilidae"
+  },
+  {
+   "id": "animals-0013",
+   "cat": "animals",
+   "pub": "2026-10-04",
+   "hook": "Los huevos de colibrí son los más pequeños de cualquier ave",
+   "body": "Una hembra suele poner dos huevos blancos en forma de guisante, que se incuban durante dos a tres semanas.",
+   "src": "Wikipedia · Trochilidae",
+   "url": "https://es.wikipedia.org/wiki/Trochilidae"
+  },
+  {
+   "id": "animals-0014",
+   "cat": "animals",
+   "pub": "2026-10-04",
+   "hook": "Algunos colibríes macho cortejan lanzándose en picado desde 30 metros",
+   "body": "Durante el cortejo, algunas especies se dejan caer sobre la hembra desde 30 metros de altura a unos 23 m/s, es decir, 82,8 km/h.",
+   "src": "Wikipedia · Trochilidae",
+   "url": "https://es.wikipedia.org/wiki/Trochilidae"
+  },
+  {
+   "id": "animals-0016",
+   "cat": "animals",
+   "pub": "2026-10-04",
+   "hook": "El camaleón cambia de color más por su estado que para camuflarse",
+   "body": "Al contrario de lo que algunos creen, no cambian de color solo según el entorno: casi siempre expresan su estado físico (temperatura, hora del día) o anímico (un rival o una pareja cerca). El camuflaje es solo ocasional.",
+   "src": "Wikipedia · Chamaeleonidae",
+   "url": "https://es.wikipedia.org/wiki/Chamaeleonidae"
+  },
+  {
+   "id": "animals-0019",
+   "cat": "animals",
+   "pub": "2026-10-04",
+   "hook": "Los camaleones mueven cada ojo por separado",
+   "body": "Sus ojos grandes y globosos se mueven de forma independiente, lo que les da una visión casi panorámica. Al localizar una presa, ambos convergen.",
+   "src": "Wikipedia · Chamaeleonidae",
+   "url": "https://es.wikipedia.org/wiki/Chamaeleonidae"
+  }
+ ]
+}

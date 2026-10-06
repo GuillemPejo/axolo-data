@@ -1,0 +1,347 @@
+{
+ "lang": "es",
+ "facts": [
+  {
+   "id": "ancient-0001",
+   "cat": "ancient",
+   "pub": "2026-09-01",
+   "hook": "En Roma la orina se cobraba con impuesto",
+   "body": "Los bataneros usaban orina para lavar y blanquear la ropa. El emperador Vespasiano gravó su recogida en las letrinas públicas.",
+   "src": "Wikipedia · Vectigal urinae",
+   "url": "https://es.wikipedia.org/wiki/Pecunia_non_olet"
+  },
+  {
+   "id": "ancient-0002",
+   "cat": "ancient",
+   "pub": "2026-09-01",
+   "hook": "Hay un himno sumerio que es también una receta de cerveza",
+   "body": "El Himno a Ninkasi, diosa sumeria de la cerveza, tiene casi 4.000 años y describe paso a paso cómo se elaboraba.",
+   "src": "Wikipedia · Ninkasi",
+   "url": "https://es.wikipedia.org/wiki/Ninkasi"
+  },
+  {
+   "id": "animals-0001",
+   "cat": "animals",
+   "pub": "2026-09-01",
+   "hook": "Los pulpos tienen tres corazones",
+   "body": "Dos bombean sangre a las branquias y el tercero al resto del cuerpo. Y su sangre es azul: lleva hemocianina, una proteína con cobre.",
+   "src": "Wikipedia · Octopoda",
+   "url": "https://es.wikipedia.org/wiki/Octopoda"
+  },
+  {
+   "id": "animals-0002",
+   "cat": "animals",
+   "pub": "2026-09-01",
+   "hook": "Los flamencos son rosas por lo que comen",
+   "body": "Su color viene de los carotenoides de las algas y los pequeños crustáceos de su dieta. Sin ellos, su plumaje se va volviendo blanquecino.",
+   "src": "Wikipedia · Flamenco",
+   "url": "https://es.wikipedia.org/wiki/Phoenicopteridae"
+  },
+  {
+   "id": "art-0001",
+   "cat": "art",
+   "pub": "2026-09-01",
+   "hook": "La Mona Lisa casi no tiene cejas ni pestañas",
+   "body": "Un análisis de alta resolución de 2007 sugirió que Leonardo sí las pintó y que se fueron borrando con las limpiezas a lo largo de los siglos.",
+   "src": "Wikipedia · La Gioconda",
+   "url": "https://es.wikipedia.org/wiki/La_Gioconda"
+  },
+  {
+   "id": "art-0002",
+   "cat": "art",
+   "pub": "2026-09-01",
+   "hook": "No hay un solo «El grito» de Munch",
+   "body": "Edvard Munch hizo varias versiones: dos pinturas, dos pasteles y una serie de litografías, entre 1893 y 1910.",
+   "src": "Wikipedia · El grito",
+   "url": "https://es.wikipedia.org/wiki/El_grito"
+  },
+  {
+   "id": "body-0001",
+   "cat": "body",
+   "pub": "2026-09-01",
+   "hook": "Naces con unos 300 huesos; de adulto tienes 206",
+   "body": "Muchos empiezan siendo cartílago y se sueldan al crecer: el cráneo o la pelvis son varias piezas fusionadas.",
+   "src": "Wikipedia · Esqueleto humano",
+   "url": "https://es.wikipedia.org/wiki/Esqueleto_humano"
+  },
+  {
+   "id": "body-0002",
+   "cat": "body",
+   "pub": "2026-09-01",
+   "hook": "Tu estómago renueva su capa protectora cada pocos días",
+   "body": "Las células que recubren el estómago se sustituyen cada 3 a 5 días. Así el ácido con el que digieres la comida no acaba digiriendo el propio estómago.",
+   "src": "Wikipedia · Estómago",
+   "url": "https://es.wikipedia.org/wiki/Est%C3%B3mago"
+  },
+  {
+   "id": "food-0001",
+   "cat": "food",
+   "pub": "2026-09-01",
+   "hook": "Las zanahorias no siempre fueron naranjas",
+   "body": "Las primeras cultivadas eran moradas y amarillas. Las naranjas se popularizaron en los Países Bajos entre los siglos XVI y XVII.",
+   "src": "Wikipedia · Zanahoria",
+   "url": "https://es.wikipedia.org/wiki/Daucus_carota_subsp._sativus"
+  },
+  {
+   "id": "food-0002",
+   "cat": "food",
+   "pub": "2026-09-01",
+   "hook": "El wasabi de muchos restaurantes no es wasabi",
+   "body": "El auténtico es caro y difícil de cultivar, así que casi siempre se sirve rábano picante con mostaza y colorante verde.",
+   "src": "Wikipedia · Wasabi",
+   "url": "https://es.wikipedia.org/wiki/Eutrema_japonicum"
+  },
+  {
+   "id": "hispanic-0001",
+   "cat": "hispanic",
+   "pub": "2026-09-01",
+   "hook": "El ajolote solo vive en libertad en Xochimilco",
+   "body": "Este anfibio, la mascota de Axolo, es endémico de los canales de Xochimilco, en Ciudad de México. Desde 2021 aparece además en el billete de 50 pesos.",
+   "src": "Wikipedia · Ajolote",
+   "url": "https://es.wikipedia.org/wiki/Ambystoma_mexicanum"
+  },
+  {
+   "id": "hispanic-0002",
+   "cat": "hispanic",
+   "pub": "2026-09-01",
+   "hook": "La Paz es la sede de gobierno más alta del mundo",
+   "body": "El centro de La Paz (Bolivia) está a unos 3.600 metros sobre el nivel del mar. A esa altura el agua hierve a unos 87 °C, así que cocer pasta lleva más tiempo.",
+   "src": "Wikipedia · La Paz",
+   "url": "https://es.wikipedia.org/wiki/La_Paz"
+  },
+  {
+   "id": "history-0001",
+   "cat": "history",
+   "pub": "2026-09-01",
+   "hook": "Cleopatra vivió más cerca de la llegada a la Luna que de la Gran Pirámide",
+   "body": "La Gran Pirámide de Guiza se terminó hacia el 2560 a. C. Cleopatra murió en el 30 a. C.: unos 2.500 años después, y unos 2.000 antes del Apolo 11.",
+   "src": "Wikipedia · Gran Pirámide de Guiza",
+   "url": "https://es.wikipedia.org/wiki/Gran_Pir%C3%A1mide_de_Guiza"
+  },
+  {
+   "id": "history-0002",
+   "cat": "history",
+   "pub": "2026-09-01",
+   "hook": "La Universidad de Oxford es más antigua que Tenochtitlan",
+   "body": "En Oxford ya se enseñaba en 1096. La ciudad azteca de Tenochtitlan se fundó hacia 1325, más de dos siglos después.",
+   "src": "Wikipedia · Universidad de Oxford",
+   "url": "https://es.wikipedia.org/wiki/Universidad_de_Oxford"
+  },
+  {
+   "id": "inventions-0001",
+   "cat": "inventions",
+   "pub": "2026-09-01",
+   "hook": "El primer ratón de ordenador era de madera",
+   "body": "Douglas Engelbart y Bill English lo construyeron en 1964: una caja de madera con dos ruedas y un solo botón.",
+   "src": "Wikipedia · Ratón (informática)",
+   "url": "https://es.wikipedia.org/wiki/Mouse"
+  },
+  {
+   "id": "inventions-0002",
+   "cat": "inventions",
+   "pub": "2026-09-01",
+   "hook": "El microondas nació de una chocolatina derretida",
+   "body": "En 1945, Percy Spencer trabajaba con un magnetrón de radar y notó que se le había derretido el dulce del bolsillo. De ahí salió el horno microondas.",
+   "src": "Wikipedia · Horno de microondas",
+   "url": "https://es.wikipedia.org/wiki/Horno_de_microondas"
+  },
+  {
+   "id": "mind-0001",
+   "cat": "mind",
+   "pub": "2026-09-01",
+   "hook": "Tu cerebro pesa un 2 % de ti y gasta un 20 % de tu energía",
+   "body": "En reposo, el cerebro consume alrededor de una quinta parte de la energía del cuerpo, aunque solo supone el 2 % del peso corporal.",
+   "src": "Wikipedia · Cerebro humano",
+   "url": "https://es.wikipedia.org/wiki/Cerebro_humano"
+  },
+  {
+   "id": "mind-0002",
+   "cat": "mind",
+   "pub": "2026-09-01",
+   "hook": "Cada ojo tiene un punto ciego y tu cerebro lo rellena",
+   "body": "Donde el nervio óptico sale del ojo no hay fotorreceptores. El cerebro completa ese hueco con lo que hay alrededor y por eso no lo notas.",
+   "src": "Wikipedia · Punto ciego",
+   "url": "https://es.wikipedia.org/wiki/Punto_ciego"
+  },
+  {
+   "id": "myths-0001",
+   "cat": "myths",
+   "pub": "2026-09-01",
+   "hook": "La Gran Muralla china no se ve a simple vista desde la Luna",
+   "body": "Es muy larga pero estrecha y del color del terreno. Ni siquiera desde la órbita baja es fácil distinguirla sin ayuda.",
+   "src": "Wikipedia · Gran Muralla china",
+   "url": "https://es.wikipedia.org/wiki/Gran_Muralla_china"
+  },
+  {
+   "id": "myths-0002",
+   "cat": "myths",
+   "pub": "2026-09-01",
+   "hook": "El vidrio de las catedrales no «gotea» con los siglos",
+   "body": "Algunas vidrieras antiguas son más gruesas abajo porque los vidrios salían irregulares y se colocaban así. El vidrio no fluye a escala humana.",
+   "src": "Wikipedia · Vidrio",
+   "url": "https://es.wikipedia.org/wiki/Vidrio"
+  },
+  {
+   "id": "nature-0001",
+   "cat": "nature",
+   "pub": "2026-09-01",
+   "hook": "Botánicamente, el plátano es una baya y la fresa no",
+   "body": "Una baya nace de un solo ovario y guarda las semillas dentro. El plátano cumple; la fresa lleva las semillas por fuera y es un fruto agregado.",
+   "src": "Wikipedia · Baya",
+   "url": "https://es.wikipedia.org/wiki/Baya"
+  },
+  {
+   "id": "nature-0002",
+   "cat": "nature",
+   "pub": "2026-09-01",
+   "hook": "Un bosque entero de Utah es un solo ser vivo",
+   "body": "Pando son unos 47.000 álamos temblones que brotan de una misma raíz. Genéticamente son un único individuo, de los más pesados del planeta.",
+   "src": "Wikipedia · Pando",
+   "url": "https://es.wikipedia.org/wiki/Pando_(%C3%A1rbol)"
+  },
+  {
+   "id": "ocean-0001",
+   "cat": "ocean",
+   "pub": "2026-09-01",
+   "hook": "Solo una cuarta parte del fondo marino está cartografiada al detalle",
+   "body": "El proyecto Seabed 2030 quiere tener todo el fondo oceánico mapeado con alta resolución. Hoy apenas supera el 25 %.",
+   "src": "Seabed 2030",
+   "url": "https://seabed2030.org/"
+  },
+  {
+   "id": "ocean-0002",
+   "cat": "ocean",
+   "pub": "2026-09-01",
+   "hook": "El corazón de una ballena azul pesa unos 180 kg",
+   "body": "Es el corazón más grande conocido. El de una ballena azul varada en Canadá en 2014 se pesó: unos 180 kg, lo mismo que dos personas adultas.",
+   "src": "Wikipedia · Ballena azul",
+   "url": "https://es.wikipedia.org/wiki/Balaenoptera_musculus"
+  },
+  {
+   "id": "places-0001",
+   "cat": "places",
+   "pub": "2026-09-01",
+   "hook": "Australia es más ancha que la Luna",
+   "body": "De este a oeste, Australia mide unos 4.000 km. El diámetro de la Luna es de unos 3.475 km.",
+   "src": "Wikipedia · Australia",
+   "url": "https://es.wikipedia.org/wiki/Australia"
+  },
+  {
+   "id": "places-0002",
+   "cat": "places",
+   "pub": "2026-09-01",
+   "hook": "Canadá tiene la costa más larga del mundo",
+   "body": "Contando sus miles de islas, la costa canadiense supera los 200.000 km: daría casi cinco vueltas a la Tierra.",
+   "src": "Wikipedia · Geografía de Canadá",
+   "url": "https://es.wikipedia.org/wiki/Geograf%C3%ADa_de_Canad%C3%A1"
+  },
+  {
+   "id": "records-0001",
+   "cat": "records",
+   "pub": "2026-09-01",
+   "hook": "El árbol más alto conocido mide unos 116 metros",
+   "body": "Se llama Hyperion y es una secuoya roja de California. Su ubicación exacta se mantiene en secreto para protegerlo.",
+   "src": "Wikipedia · Hyperion",
+   "url": "https://es.wikipedia.org/wiki/Hyperion_(%C3%A1rbol)"
+  },
+  {
+   "id": "records-0002",
+   "cat": "records",
+   "pub": "2026-09-01",
+   "hook": "La temperatura más baja medida en la Tierra: −89,2 °C",
+   "body": "Se registró en la base rusa de Vostok, en la Antártida, el 21 de julio de 1983.",
+   "src": "Wikipedia · Base Vostok",
+   "url": "https://es.wikipedia.org/wiki/Base_Vostok"
+  },
+  {
+   "id": "science-0001",
+   "cat": "science",
+   "pub": "2026-09-01",
+   "hook": "La luz del Sol que ves salió de allí hace 8 minutos",
+   "body": "La luz tarda unos 8 minutos y 20 segundos en recorrer los 150 millones de kilómetros entre el Sol y la Tierra.",
+   "src": "Wikipedia · Unidad astronómica",
+   "url": "https://es.wikipedia.org/wiki/Unidad_astron%C3%B3mica"
+  },
+  {
+   "id": "science-0002",
+   "cat": "science",
+   "pub": "2026-09-01",
+   "hook": "Un diamante y la mina de tu lápiz son lo mismo",
+   "body": "Los dos son carbono puro. Lo que cambia es cómo se ordenan los átomos: en red rígida en el diamante y en láminas que se deslizan en el grafito.",
+   "src": "Wikipedia · Alótropos del carbono",
+   "url": "https://es.wikipedia.org/wiki/Al%C3%B3tropos_del_carbono"
+  },
+  {
+   "id": "screen-0001",
+   "cat": "screen",
+   "pub": "2026-09-01",
+   "hook": "El rugido del T. rex de Jurassic Park es en parte una cría de elefante",
+   "body": "El diseñador de sonido Gary Rydstrom lo montó mezclando, entre otros, una cría de elefante, un tigre y un caimán.",
+   "src": "Wikipedia · Jurassic Park",
+   "url": "https://es.wikipedia.org/wiki/Jurassic_Park_(pel%C3%ADcula)"
+  },
+  {
+   "id": "screen-0002",
+   "cat": "screen",
+   "pub": "2026-09-01",
+   "hook": "El cine habló por primera vez en 1927",
+   "body": "El cantor de jazz fue el primer largometraje con diálogos sincronizados. Su primera frase hablada: «Todavía no han oído nada».",
+   "src": "Wikipedia · El cantor de jazz",
+   "url": "https://es.wikipedia.org/wiki/The_Jazz_Singer"
+  },
+  {
+   "id": "space-0001",
+   "cat": "space",
+   "pub": "2026-09-01",
+   "hook": "En Venus, un día dura más que un año",
+   "body": "Venus tarda 243 días terrestres en girar sobre sí misma y solo 225 en dar la vuelta al Sol. Además, gira al revés que casi todos los planetas.",
+   "src": "NASA · Venus",
+   "url": "https://science.nasa.gov/venus/"
+  },
+  {
+   "id": "space-0002",
+   "cat": "space",
+   "pub": "2026-09-01",
+   "hook": "Neptuno solo ha dado una vuelta al Sol desde que lo descubrimos",
+   "body": "Un año en Neptuno dura unos 165 años terrestres. Se descubrió en 1846 y no completó su primera órbita desde entonces hasta 2011.",
+   "src": "Wikipedia · Neptuno",
+   "url": "https://es.wikipedia.org/wiki/Neptuno_(planeta)"
+  },
+  {
+   "id": "sports-0001",
+   "cat": "sports",
+   "pub": "2026-09-01",
+   "hook": "Los Juegos Olímpicos dieron medallas de arte",
+   "body": "Entre 1912 y 1948 hubo medallas olímpicas de pintura, escultura, arquitectura, literatura y música, siempre con temática deportiva.",
+   "src": "Wikipedia · Competiciones de arte en los Juegos Olímpicos",
+   "url": "https://es.wikipedia.org/wiki/Competiciones_de_arte_en_los_Juegos_Ol%C3%ADmpicos"
+  },
+  {
+   "id": "sports-0002",
+   "cat": "sports",
+   "pub": "2026-09-01",
+   "hook": "Un partido de tenis duró 11 horas y 5 minutos",
+   "body": "John Isner y Nicolas Mahut lo jugaron en Wimbledon 2010 a lo largo de tres días. El quinto set acabó 70-68.",
+   "src": "Wikipedia · Isner-Mahut",
+   "url": "https://es.wikipedia.org/wiki/Partido_Isner-Mahut_en_Wimbledon_2010"
+  },
+  {
+   "id": "words-0001",
+   "cat": "words",
+   "pub": "2026-09-01",
+   "hook": "«Ojalá» significa, en origen, «si Dios quiere»",
+   "body": "Viene del árabe andalusí law šá lláh. Es una de las miles de palabras que el español tomó del árabe, como almohada, aceite o azúcar.",
+   "src": "Wikipedia · Ojalá",
+   "url": "https://es.wiktionary.org/wiki/ojal%C3%A1"
+  },
+  {
+   "id": "words-0002",
+   "cat": "words",
+   "pub": "2026-09-01",
+   "hook": "«Robot» viene de una palabra checa que significa trabajo forzado",
+   "body": "Apareció en la obra de teatro R.U.R. de Karel Čapek (1920). La idea de usar robota fue de su hermano Josef.",
+   "src": "Wikipedia · Robot",
+   "url": "https://es.wikipedia.org/wiki/Robot"
+  }
+ ]
+}
