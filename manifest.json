@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": "a1b59ecbb7599b3c",
- "generatedAt": "2026-10-06T23:37:10Z",
+ "version": "3a886b4708cd7b95",
+ "generatedAt": "2026-10-07T00:31:40Z",
  "categories": [
   {
    "id": "space",
@@ -203,8 +203,13 @@
    },
    {
     "path": "es/2026-10.json",
-    "sha": "a62bfad32d411895",
-    "count": 16
+    "sha": "419d866b6ca8572a",
+    "count": 524
+   },
+   {
+    "path": "es/2026-11.json",
+    "sha": "5ac42a32f96cc827",
+    "count": 9
    }
   ],
   "en": [
@@ -215,8 +220,13 @@
    },
    {
     "path": "en/2026-10.json",
-    "sha": "030b8a33468793d2",
-    "count": 16
+    "sha": "4e643f5f6e78a36b",
+    "count": 524
+   },
+   {
+    "path": "en/2026-11.json",
+    "sha": "1bb5aceabd756d2d",
+    "count": 9
    }
   ]
  }
