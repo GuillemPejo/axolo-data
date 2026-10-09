@@ -1,0 +1,86 @@
+{
+ "lang": "ca",
+ "facts": [
+  {
+   "id": "history-0003",
+   "cat": "history",
+   "pub": "2026-11-01",
+   "hook": "El 1932, Austràlia va enviar soldats amb metralladores contra els emús",
+   "body": "A finals del 1932 es va desplegar a Austràlia Occidental una operació militar de control d'emús: un parell de soldats amb dues metralladores Lewis i deu mil cartutxos.",
+   "src": "Wikipedia · Guerra del Emú",
+   "url": "https://es.wikipedia.org/wiki/Guerra_del_Em%C3%BA"
+  },
+  {
+   "id": "history-0004",
+   "cat": "history",
+   "pub": "2026-11-01",
+   "hook": "Segons el seu informe, el major Meredith va gastar exactament deu cartutxos per emú abatut",
+   "body": "En acabar l'operació, el major Meredith va informar de 986 emús morts amb 9.860 cartutxos. Els mitjans de l'època van batejar l'episodi, en to satíric, com a «Guerra de l'Emú».",
+   "src": "Wikipedia · Guerra del Emú",
+   "url": "https://es.wikipedia.org/wiki/Guerra_del_Em%C3%BA"
+  },
+  {
+   "id": "history-0005",
+   "cat": "history",
+   "pub": "2026-11-01",
+   "hook": "El 1919, una onada de melassa a uns 56 km/h va inundar un barri de Boston",
+   "body": "El 15 de gener de 1919 va fallar un dipòsit de melassa al barri de North End. L'onada va avançar a uns 56 km/h, va matar 21 persones i en va ferir 150 més.",
+   "src": "Wikipedia · Gran inundación de melaza de Boston",
+   "url": "https://es.wikipedia.org/wiki/Gran_inundaci%C3%B3n_de_melaza_de_Boston"
+  },
+  {
+   "id": "history-0006",
+   "cat": "history",
+   "pub": "2026-11-01",
+   "hook": "El 1962, el riure es va encomanar a 95 de les 159 alumnes d'una escola de Tanganyika",
+   "body": "Va començar el 30 de gener de 1962 amb tres noies d'una escola missionera de Kashasha. Va ser un brot d'histèria col·lectiva de riure i plor, i el 18 de març van haver de tancar l'escola.",
+   "src": "Wikipedia · Epidemia de la risa de Tanganica",
+   "url": "https://es.wikipedia.org/wiki/Epidemia_de_la_risa_de_Tanganica"
+  },
+  {
+   "id": "history-0007",
+   "cat": "history",
+   "pub": "2026-11-01",
+   "hook": "El 1858, la pudor del Tàmesi va obligar a amarar de químics les cortines del Parlament",
+   "body": "L'estiu del 1858, l'olor dels residus sense tractar abocats al riu va ser tan aclaparadora que va afectar la feina de la Cambra dels Comuns, i en van amarar les cortines amb un producte químic.",
+   "src": "Wikipedia · Gran Hedor",
+   "url": "https://es.wikipedia.org/wiki/Gran_Hedor"
+  },
+  {
+   "id": "history-0008",
+   "cat": "history",
+   "pub": "2026-11-01",
+   "hook": "Londres va atacar el còlera traient la pudor del Tàmesi i el va frenar per una altra raó",
+   "body": "Es creia que la pudor causava el còlera, així que el 1859 Londres va aprovar el clavegueram de Joseph Bazalgette per eliminar-la. Com a conseqüència imprevista, l'aigua va deixar d'estar contaminada i això va resoldre l'epidèmia.",
+   "src": "Wikipedia · Gran Hedor",
+   "url": "https://es.wikipedia.org/wiki/Gran_Hedor"
+  },
+  {
+   "id": "history-0009",
+   "cat": "history",
+   "pub": "2026-11-01",
+   "hook": "Segons estudis recents, la bombolla de les tulipes va ser menys greu que la llegenda",
+   "body": "L'escriptora Anne Goldgar i altres estudis suggereixen que la caiguda del 1637 no va afectar tant l'economia dels Països Baixos i que els perdedors haurien estat un grapat d'especuladors. El mite vindria del llibre de Charles Mackay (1841).",
+   "src": "Wikipedia · Tulipomanía",
+   "url": "https://es.wikipedia.org/wiki/Tulipoman%C3%ADa"
+  },
+  {
+   "id": "history-0011",
+   "cat": "history",
+   "pub": "2026-11-01",
+   "hook": "Un estiu de pluja el 1816 va inspirar Frankenstein i El vampir",
+   "body": "L'estiu del 1816, la pluja incessant va retenir Mary Shelley, Byron, Polidori i altres a la Villa Diodati, a prop de Ginebra. Després d'una aposta, es van explicar històries de terror: d'aquí van sortir les idees de Frankenstein i d'El vampir.",
+   "src": "Wikipedia · Año sin verano",
+   "url": "https://es.wikipedia.org/wiki/A%C3%B1o_sin_verano"
+  },
+  {
+   "id": "history-0012",
+   "cat": "history",
+   "pub": "2026-11-01",
+   "hook": "La manca de civada el 1816 podria haver inspirat l'avantpassat de la bicicleta",
+   "body": "Sense civada per alimentar els cavalls, l'inventor alemany Karl Drais podria haver començat a buscar transports sense animals. Va inventar la draisina o velocípede, avantpassat de la bicicleta actual.",
+   "src": "Wikipedia · Año sin verano",
+   "url": "https://es.wikipedia.org/wiki/A%C3%B1o_sin_verano"
+  }
+ ]
+}

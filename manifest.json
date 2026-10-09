@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": "3a886b4708cd7b95",
- "generatedAt": "2026-10-07T00:35:19Z",
+ "version": "6e435ec5089b2a91",
+ "generatedAt": "2026-10-09T13:07:33Z",
  "categories": [
   {
    "id": "space",
@@ -10,7 +10,8 @@
    "icon": "rocket",
    "names": {
     "es": "Espacio",
-    "en": "Space"
+    "en": "Space",
+    "ca": "Espai"
    }
   },
   {
@@ -20,7 +21,8 @@
    "icon": "paw",
    "names": {
     "es": "Animales",
-    "en": "Animals"
+    "en": "Animals",
+    "ca": "Animals"
    }
   },
   {
@@ -30,7 +32,8 @@
    "icon": "heart",
    "names": {
     "es": "Cuerpo humano",
-    "en": "Human body"
+    "en": "Human body",
+    "ca": "Cos humà"
    }
   },
   {
@@ -40,7 +43,8 @@
    "icon": "brain",
    "names": {
     "es": "Mente",
-    "en": "Mind"
+    "en": "Mind",
+    "ca": "Ment"
    }
   },
   {
@@ -50,7 +54,8 @@
    "icon": "landmark",
    "names": {
     "es": "Historia",
-    "en": "History"
+    "en": "History",
+    "ca": "Història"
    }
   },
   {
@@ -60,7 +65,8 @@
    "icon": "pyramid",
    "names": {
     "es": "Mundo antiguo",
-    "en": "Ancient world"
+    "en": "Ancient world",
+    "ca": "Món antic"
    }
   },
   {
@@ -70,7 +76,8 @@
    "icon": "globe",
    "names": {
     "es": "Países y lugares",
-    "en": "Places"
+    "en": "Places",
+    "ca": "Països i llocs"
    }
   },
   {
@@ -80,7 +87,8 @@
    "icon": "waves",
    "names": {
     "es": "Océanos",
-    "en": "Oceans"
+    "en": "Oceans",
+    "ca": "Oceans"
    }
   },
   {
@@ -90,7 +98,8 @@
    "icon": "leaf",
    "names": {
     "es": "Plantas",
-    "en": "Plants"
+    "en": "Plants",
+    "ca": "Plantes"
    }
   },
   {
@@ -100,7 +109,8 @@
    "icon": "flask",
    "names": {
     "es": "Ciencia",
-    "en": "Science"
+    "en": "Science",
+    "ca": "Ciència"
    }
   },
   {
@@ -110,7 +120,8 @@
    "icon": "gear",
    "names": {
     "es": "Inventos",
-    "en": "Inventions"
+    "en": "Inventions",
+    "ca": "Invents"
    }
   },
   {
@@ -120,7 +131,8 @@
    "icon": "quote",
    "names": {
     "es": "Palabras",
-    "en": "Words"
+    "en": "Words",
+    "ca": "Paraules"
    }
   },
   {
@@ -130,7 +142,8 @@
    "icon": "palette",
    "names": {
     "es": "Arte",
-    "en": "Art"
+    "en": "Art",
+    "ca": "Art"
    }
   },
   {
@@ -140,7 +153,8 @@
    "icon": "film",
    "names": {
     "es": "Cine y series",
-    "en": "Film & TV"
+    "en": "Film & TV",
+    "ca": "Cinema i sèries"
    }
   },
   {
@@ -150,7 +164,8 @@
    "icon": "utensils",
    "names": {
     "es": "Comida",
-    "en": "Food"
+    "en": "Food",
+    "ca": "Menjar"
    }
   },
   {
@@ -160,7 +175,8 @@
    "icon": "ball",
    "names": {
     "es": "Deportes",
-    "en": "Sports"
+    "en": "Sports",
+    "ca": "Esports"
    }
   },
   {
@@ -170,7 +186,8 @@
    "icon": "trophy",
    "names": {
     "es": "Récords",
-    "en": "Records"
+    "en": "Records",
+    "ca": "Rècords"
    }
   },
   {
@@ -180,7 +197,8 @@
    "icon": "sun",
    "names": {
     "es": "Mundo hispano",
-    "en": "Hispanic world"
+    "en": "Hispanic world",
+    "ca": "Món hispà"
    }
   },
   {
@@ -190,7 +208,8 @@
    "icon": "myth",
    "names": {
     "es": "Mitos desmentidos",
-    "en": "Myths busted"
+    "en": "Myths busted",
+    "ca": "Mites desmentits"
    }
   }
  ],
@@ -203,7 +222,7 @@
    },
    {
     "path": "es/2026-10.json",
-    "sha": "419d866b6ca8572a",
+    "sha": "52804b0dc7da7193",
     "count": 524
    },
    {
@@ -226,6 +245,23 @@
    {
     "path": "en/2026-11.json",
     "sha": "1bb5aceabd756d2d",
+    "count": 9
+   }
+  ],
+  "ca": [
+   {
+    "path": "ca/2026-09.json",
+    "sha": "0358f950ae022563",
+    "count": 38
+   },
+   {
+    "path": "ca/2026-10.json",
+    "sha": "3c3a5097b3aa97e3",
+    "count": 524
+   },
+   {
+    "path": "ca/2026-11.json",
+    "sha": "22e29c2a271af193",
     "count": 9
    }
   ]

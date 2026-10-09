@@ -1,0 +1,347 @@
+{
+ "lang": "ca",
+ "facts": [
+  {
+   "id": "ancient-0001",
+   "cat": "ancient",
+   "pub": "2026-09-01",
+   "hook": "A Roma es cobrava un impost per l'orina",
+   "body": "Els bugaders feien servir orina per rentar i blanquejar la roba. L'emperador Vespasià en va gravar la recollida a les latrines públiques.",
+   "src": "Wikipedia · Vectigal urinae",
+   "url": "https://es.wikipedia.org/wiki/Pecunia_non_olet"
+  },
+  {
+   "id": "ancient-0002",
+   "cat": "ancient",
+   "pub": "2026-09-01",
+   "hook": "Hi ha un himne sumeri que també és una recepta de cervesa",
+   "body": "L'Himne a Ninkasi, deessa sumèria de la cervesa, té gairebé 4.000 anys i descriu pas a pas com s'elaborava.",
+   "src": "Wikipedia · Ninkasi",
+   "url": "https://es.wikipedia.org/wiki/Ninkasi"
+  },
+  {
+   "id": "animals-0001",
+   "cat": "animals",
+   "pub": "2026-09-01",
+   "hook": "Els pops tenen tres cors",
+   "body": "Dos bomben sang a les brànquies i el tercer, a la resta del cos. I tenen la sang blava: porta hemocianina, una proteïna amb coure.",
+   "src": "Wikipedia · Octopoda",
+   "url": "https://es.wikipedia.org/wiki/Octopoda"
+  },
+  {
+   "id": "animals-0002",
+   "cat": "animals",
+   "pub": "2026-09-01",
+   "hook": "Els flamencs són roses pel que mengen",
+   "body": "El color els ve dels carotenoides de les algues i dels petits crustacis de la seva dieta. Sense aquests pigments, el plomatge se'ls va tornant blanquinós.",
+   "src": "Wikipedia · Flamenco",
+   "url": "https://es.wikipedia.org/wiki/Phoenicopteridae"
+  },
+  {
+   "id": "art-0001",
+   "cat": "art",
+   "pub": "2026-09-01",
+   "hook": "La Gioconda gairebé no té celles ni pestanyes",
+   "body": "Una anàlisi d'alta resolució del 2007 va suggerir que Leonardo sí que les va pintar i que es van anar esborrant amb les neteges al llarg dels segles.",
+   "src": "Wikipedia · La Gioconda",
+   "url": "https://es.wikipedia.org/wiki/La_Gioconda"
+  },
+  {
+   "id": "art-0002",
+   "cat": "art",
+   "pub": "2026-09-01",
+   "hook": "No hi ha un sol «El crit» de Munch",
+   "body": "Edvard Munch en va fer diverses versions: dues pintures, dos pastels i una sèrie de litografies, entre el 1893 i el 1910.",
+   "src": "Wikipedia · El grito",
+   "url": "https://es.wikipedia.org/wiki/El_grito"
+  },
+  {
+   "id": "body-0001",
+   "cat": "body",
+   "pub": "2026-09-01",
+   "hook": "Neixes amb uns 300 ossos; d'adult en tens 206",
+   "body": "Molts comencen sent cartílag i se solden a mesura que creixes: el crani o la pelvis són diverses peces fusionades.",
+   "src": "Wikipedia · Esqueleto humano",
+   "url": "https://es.wikipedia.org/wiki/Esqueleto_humano"
+  },
+  {
+   "id": "body-0002",
+   "cat": "body",
+   "pub": "2026-09-01",
+   "hook": "El teu estómac renova la capa protectora cada pocs dies",
+   "body": "Les cèl·lules que recobreixen l'estómac se substitueixen cada 3 a 5 dies. Així, l'àcid amb què digereixes el menjar no acaba digerint l'estómac mateix.",
+   "src": "Wikipedia · Estómago",
+   "url": "https://es.wikipedia.org/wiki/Est%C3%B3mago"
+  },
+  {
+   "id": "food-0001",
+   "cat": "food",
+   "pub": "2026-09-01",
+   "hook": "Les pastanagues no sempre han estat taronges",
+   "body": "Les primeres que es van conrear eren morades i grogues. Les taronges es van popularitzar als Països Baixos entre els segles XVI i XVII.",
+   "src": "Wikipedia · Zanahoria",
+   "url": "https://es.wikipedia.org/wiki/Daucus_carota_subsp._sativus"
+  },
+  {
+   "id": "food-0002",
+   "cat": "food",
+   "pub": "2026-09-01",
+   "hook": "El wasabi de molts restaurants no és wasabi",
+   "body": "L'autèntic és car i difícil de conrear, així que gairebé sempre se serveix rave picant amb mostassa i colorant verd.",
+   "src": "Wikipedia · Wasabi",
+   "url": "https://es.wikipedia.org/wiki/Eutrema_japonicum"
+  },
+  {
+   "id": "hispanic-0001",
+   "cat": "hispanic",
+   "pub": "2026-09-01",
+   "hook": "L'axolot només viu en llibertat a Xochimilco",
+   "body": "Aquest amfibi, la mascota d'Axolo, és endèmic dels canals de Xochimilco, a Ciutat de Mèxic. A més, des del 2021 surt al bitllet de 50 pesos.",
+   "src": "Wikipedia · Ajolote",
+   "url": "https://es.wikipedia.org/wiki/Ambystoma_mexicanum"
+  },
+  {
+   "id": "hispanic-0002",
+   "cat": "hispanic",
+   "pub": "2026-09-01",
+   "hook": "La Paz és la seu de govern més alta del món",
+   "body": "El centre de La Paz (Bolívia) és a uns 3.600 metres sobre el nivell del mar. A aquesta altitud l'aigua bull a uns 87 °C, així que la pasta triga més a coure's.",
+   "src": "Wikipedia · La Paz",
+   "url": "https://es.wikipedia.org/wiki/La_Paz"
+  },
+  {
+   "id": "history-0001",
+   "cat": "history",
+   "pub": "2026-09-01",
+   "hook": "Cleòpatra va viure més a prop de l'arribada a la Lluna que de la Gran Piràmide",
+   "body": "La Gran Piràmide de Gizeh es va acabar cap al 2560 aC. Cleòpatra va morir el 30 aC: uns 2.500 anys després, i uns 2.000 abans de l'Apollo 11.",
+   "src": "Wikipedia · Gran Pirámide de Guiza",
+   "url": "https://es.wikipedia.org/wiki/Gran_Pir%C3%A1mide_de_Guiza"
+  },
+  {
+   "id": "history-0002",
+   "cat": "history",
+   "pub": "2026-09-01",
+   "hook": "La Universitat d'Oxford és més antiga que Tenochtitlan",
+   "body": "A Oxford ja s'hi ensenyava el 1096. La ciutat asteca de Tenochtitlan es va fundar cap al 1325, més de dos segles després.",
+   "src": "Wikipedia · Universidad de Oxford",
+   "url": "https://es.wikipedia.org/wiki/Universidad_de_Oxford"
+  },
+  {
+   "id": "inventions-0001",
+   "cat": "inventions",
+   "pub": "2026-09-01",
+   "hook": "El primer ratolí d'ordinador era de fusta",
+   "body": "Douglas Engelbart i Bill English el van construir el 1964: una caixa de fusta amb dues rodes i un sol botó.",
+   "src": "Wikipedia · Ratón (informática)",
+   "url": "https://es.wikipedia.org/wiki/Mouse"
+  },
+  {
+   "id": "inventions-0002",
+   "cat": "inventions",
+   "pub": "2026-09-01",
+   "hook": "El microones va néixer d'una xocolatina fosa",
+   "body": "El 1945, Percy Spencer treballava amb un magnetró de radar i es va adonar que se li havia fos el dolç que duia a la butxaca. D'aquí va sortir el forn de microones.",
+   "src": "Wikipedia · Horno de microondas",
+   "url": "https://es.wikipedia.org/wiki/Horno_de_microondas"
+  },
+  {
+   "id": "mind-0001",
+   "cat": "mind",
+   "pub": "2026-09-01",
+   "hook": "El teu cervell pesa un 2 % de tu i gasta un 20 % de la teva energia",
+   "body": "En repòs, el cervell consumeix al voltant d'una cinquena part de l'energia del cos, tot i que només representa el 2 % del pes corporal.",
+   "src": "Wikipedia · Cerebro humano",
+   "url": "https://es.wikipedia.org/wiki/Cerebro_humano"
+  },
+  {
+   "id": "mind-0002",
+   "cat": "mind",
+   "pub": "2026-09-01",
+   "hook": "Cada ull té un punt cec i el teu cervell l'omple",
+   "body": "On el nervi òptic surt de l'ull no hi ha fotoreceptors. El cervell omple aquest buit amb el que hi ha al voltant i per això no te n'adones.",
+   "src": "Wikipedia · Punto ciego",
+   "url": "https://es.wikipedia.org/wiki/Punto_ciego"
+  },
+  {
+   "id": "myths-0001",
+   "cat": "myths",
+   "pub": "2026-09-01",
+   "hook": "La Gran Muralla xinesa no es veu a simple vista des de la Lluna",
+   "body": "És molt llarga però estreta i del color del terreny. Ni tan sols des de l'òrbita baixa és fàcil distingir-la sense ajuda.",
+   "src": "Wikipedia · Gran Muralla china",
+   "url": "https://es.wikipedia.org/wiki/Gran_Muralla_china"
+  },
+  {
+   "id": "myths-0002",
+   "cat": "myths",
+   "pub": "2026-09-01",
+   "hook": "El vidre de les catedrals no «degota» amb els segles",
+   "body": "Alguns vitralls antics són més gruixuts per baix perquè els vidres sortien irregulars i es col·locaven així. El vidre no flueix a escala humana.",
+   "src": "Wikipedia · Vidrio",
+   "url": "https://es.wikipedia.org/wiki/Vidrio"
+  },
+  {
+   "id": "nature-0001",
+   "cat": "nature",
+   "pub": "2026-09-01",
+   "hook": "Botànicament, el plàtan és una baia i la maduixa no",
+   "body": "Una baia neix d'un sol ovari i guarda les llavors a dins. El plàtan ho compleix; la maduixa porta les llavors per fora i és un fruit agregat.",
+   "src": "Wikipedia · Baya",
+   "url": "https://es.wikipedia.org/wiki/Baya"
+  },
+  {
+   "id": "nature-0002",
+   "cat": "nature",
+   "pub": "2026-09-01",
+   "hook": "Un bosc sencer d'Utah és un sol ésser viu",
+   "body": "Pando són uns 47.000 trèmols que brollen d'una mateixa arrel. Genèticament són un únic individu, dels més pesants del planeta.",
+   "src": "Wikipedia · Pando",
+   "url": "https://es.wikipedia.org/wiki/Pando_(%C3%A1rbol)"
+  },
+  {
+   "id": "ocean-0001",
+   "cat": "ocean",
+   "pub": "2026-09-01",
+   "hook": "Només una quarta part del fons marí està cartografiada amb detall",
+   "body": "El projecte Seabed 2030 vol tenir tot el fons oceànic cartografiat amb alta resolució. Avui amb prou feines supera el 25 %.",
+   "src": "Seabed 2030",
+   "url": "https://seabed2030.org/"
+  },
+  {
+   "id": "ocean-0002",
+   "cat": "ocean",
+   "pub": "2026-09-01",
+   "hook": "El cor d'una balena blava pesa uns 180 kg",
+   "body": "És el cor més gran que es coneix. El d'una balena blava encallada al Canadà el 2014 es va pesar: uns 180 kg, el mateix que dues persones adultes.",
+   "src": "Wikipedia · Ballena azul",
+   "url": "https://es.wikipedia.org/wiki/Balaenoptera_musculus"
+  },
+  {
+   "id": "places-0001",
+   "cat": "places",
+   "pub": "2026-09-01",
+   "hook": "Austràlia és més ampla que la Lluna",
+   "body": "D'est a oest, Austràlia fa uns 4.000 km. El diàmetre de la Lluna és d'uns 3.475 km.",
+   "src": "Wikipedia · Australia",
+   "url": "https://es.wikipedia.org/wiki/Australia"
+  },
+  {
+   "id": "places-0002",
+   "cat": "places",
+   "pub": "2026-09-01",
+   "hook": "El Canadà té la costa més llarga del món",
+   "body": "Si hi comptes els milers d'illes, la costa canadenca supera els 200.000 km: faria gairebé cinc voltes a la Terra.",
+   "src": "Wikipedia · Geografía de Canadá",
+   "url": "https://es.wikipedia.org/wiki/Geograf%C3%ADa_de_Canad%C3%A1"
+  },
+  {
+   "id": "records-0001",
+   "cat": "records",
+   "pub": "2026-09-01",
+   "hook": "L'arbre més alt conegut fa uns 116 metres",
+   "body": "Es diu Hyperion i és una sequoia vermella de Califòrnia. La seva ubicació exacta es manté en secret per protegir-lo.",
+   "src": "Wikipedia · Hyperion",
+   "url": "https://es.wikipedia.org/wiki/Hyperion_(%C3%A1rbol)"
+  },
+  {
+   "id": "records-0002",
+   "cat": "records",
+   "pub": "2026-09-01",
+   "hook": "La temperatura més baixa mesurada a la Terra: −89,2 °C",
+   "body": "Es va registrar a la base russa de Vostok, a l'Antàrtida, el 21 de juliol de 1983.",
+   "src": "Wikipedia · Base Vostok",
+   "url": "https://es.wikipedia.org/wiki/Base_Vostok"
+  },
+  {
+   "id": "science-0001",
+   "cat": "science",
+   "pub": "2026-09-01",
+   "hook": "La llum del Sol que veus en va sortir fa 8 minuts",
+   "body": "La llum triga uns 8 minuts i 20 segons a recórrer els 150 milions de quilòmetres que separen el Sol i la Terra.",
+   "src": "Wikipedia · Unidad astronómica",
+   "url": "https://es.wikipedia.org/wiki/Unidad_astron%C3%B3mica"
+  },
+  {
+   "id": "science-0002",
+   "cat": "science",
+   "pub": "2026-09-01",
+   "hook": "Un diamant i la mina del teu llapis són el mateix",
+   "body": "Tots dos són carboni pur. El que canvia és com s'ordenen els àtoms: en una xarxa rígida en el diamant i en làmines que llisquen en el grafit.",
+   "src": "Wikipedia · Alótropos del carbono",
+   "url": "https://es.wikipedia.org/wiki/Al%C3%B3tropos_del_carbono"
+  },
+  {
+   "id": "screen-0001",
+   "cat": "screen",
+   "pub": "2026-09-01",
+   "hook": "El rugit del T. rex de Jurassic Park és en part una cria d'elefant",
+   "body": "El dissenyador de so Gary Rydstrom el va muntar barrejant, entre d'altres, una cria d'elefant, un tigre i un caiman.",
+   "src": "Wikipedia · Jurassic Park",
+   "url": "https://es.wikipedia.org/wiki/Jurassic_Park_(pel%C3%ADcula)"
+  },
+  {
+   "id": "screen-0002",
+   "cat": "screen",
+   "pub": "2026-09-01",
+   "hook": "El cinema va parlar per primera vegada el 1927",
+   "body": "El cantant de jazz va ser el primer llargmetratge amb diàlegs sincronitzats. La seva primera frase parlada: «Encara no heu sentit res».",
+   "src": "Wikipedia · El cantor de jazz",
+   "url": "https://es.wikipedia.org/wiki/The_Jazz_Singer"
+  },
+  {
+   "id": "space-0001",
+   "cat": "space",
+   "pub": "2026-09-01",
+   "hook": "A Venus, un dia dura més que un any",
+   "body": "Venus triga 243 dies terrestres a girar sobre si mateix i només 225 a fer la volta al Sol. A més, gira al revés que gairebé tots els planetes.",
+   "src": "NASA · Venus",
+   "url": "https://science.nasa.gov/venus/"
+  },
+  {
+   "id": "space-0002",
+   "cat": "space",
+   "pub": "2026-09-01",
+   "hook": "Neptú només ha fet una volta al Sol des que el vam descobrir",
+   "body": "Un any a Neptú dura uns 165 anys terrestres. Es va descobrir el 1846 i, des d'aleshores, no va completar la primera òrbita fins al 2011.",
+   "src": "Wikipedia · Neptuno",
+   "url": "https://es.wikipedia.org/wiki/Neptuno_(planeta)"
+  },
+  {
+   "id": "sports-0001",
+   "cat": "sports",
+   "pub": "2026-09-01",
+   "hook": "Els Jocs Olímpics van donar medalles d'art",
+   "body": "Entre el 1912 i el 1948 hi va haver medalles olímpiques de pintura, escultura, arquitectura, literatura i música, sempre de temàtica esportiva.",
+   "src": "Wikipedia · Competiciones de arte en los Juegos Olímpicos",
+   "url": "https://es.wikipedia.org/wiki/Competiciones_de_arte_en_los_Juegos_Ol%C3%ADmpicos"
+  },
+  {
+   "id": "sports-0002",
+   "cat": "sports",
+   "pub": "2026-09-01",
+   "hook": "Un partit de tennis va durar 11 hores i 5 minuts",
+   "body": "John Isner i Nicolas Mahut el van jugar a Wimbledon el 2010 al llarg de tres dies. El cinquè set va acabar 70-68.",
+   "src": "Wikipedia · Isner-Mahut",
+   "url": "https://es.wikipedia.org/wiki/Partido_Isner-Mahut_en_Wimbledon_2010"
+  },
+  {
+   "id": "words-0001",
+   "cat": "words",
+   "pub": "2026-09-01",
+   "hook": "L'«ojalá» castellà significa, en origen, «si Déu vol»",
+   "body": "Ve de l'àrab andalusí law šá lláh. És un dels milers de mots que el castellà va prendre de l'àrab, com «almohada», «aceite» o «azúcar».",
+   "src": "Wikipedia · Ojalá",
+   "url": "https://es.wiktionary.org/wiki/ojal%C3%A1"
+  },
+  {
+   "id": "words-0002",
+   "cat": "words",
+   "pub": "2026-09-01",
+   "hook": "«Robot» ve d'un mot txec que significa treball forçat",
+   "body": "Va aparèixer a l'obra de teatre R.U.R., de Karel Čapek (1920). La idea de fer servir robota va ser del seu germà Josef.",
+   "src": "Wikipedia · Robot",
+   "url": "https://es.wikipedia.org/wiki/Robot"
+  }
+ ]
+}
